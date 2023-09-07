@@ -1,3 +1,14 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDTa7vlRL-3091inyzjJlpzkZ_rz_XhGIw",
+  authDomain: "superchat-demo-ee2bc.firebaseapp.com",
+  projectId: "superchat-demo-ee2bc",
+  storageBucket: "superchat-demo-ee2bc.appspot.com",
+  messagingSenderId: "1043295652925",
+  appId: "1:1043295652925:web:6f9a3b1c2d68b3c67f2e54",
+  measurementId: "G-LKLFSZYCD0",
+};
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
